@@ -1,5 +1,4 @@
 print("Some string")
 print("Other string")
-some chang
-privet
-e
+some change
+zlussss
